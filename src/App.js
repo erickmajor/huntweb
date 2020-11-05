@@ -1,13 +1,14 @@
 import React, { Component } from 'react';
 
-class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        <h1>Hello Rocketseat</h1>
-      </div>
-    );
-  }
-}
+import "./styles.css";
+
+import Header from "./components/Header";
+
+// Stateless components
+const App = () => (
+  <div className="App">
+    <Header />
+  </div>
+);
 
 export default App;
