@@ -1,3 +1,13 @@
+# HUNTWEB Project
+
+This is a project created by @Rocketseat with the objective of studying the resources of the JavaScript framework ReactJS, building it progressively for this purpose.
+
+This project refers to a product API, in which there is a description of the technology and an external link for more information.
+
+In addition to the listage, we have navigation for the other pages that the API returns, limited to 10 elements per page.
+
+This project can be extended for other purposes, serving as a basis for future projects.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
